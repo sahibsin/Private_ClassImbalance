@@ -1,4 +1,6 @@
 # DP-SGD vs PATE: Which Has Less Disparate Impact on Model Accuracy? (PPML @ ACM CCS'21)
+![Made With python 3.8.2](https://img.shields.io/badge/Made%20with-Python%203.8.2-brightgreen)![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)![Pytorch](https://img.shields.io/badge/Made%20with-Pytorch-green.svg)
+
 
 This repository contains both the DP-SGD and PATE implementations for the paper titled `DP-SGD vs PATE: Which Has Less Disparate Impact on Model Accuracy?`.
 
